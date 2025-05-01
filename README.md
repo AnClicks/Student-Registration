@@ -12,7 +12,6 @@ A desktop application for managing student, teacher, and admin records in an edu
 - [Dependencies](#dependencies)
 - [Build & Run Instructions](#build--run-instructions)
 - [Usage Guide](#usage-guide)
-- [Screenshots](#screenshots)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [Author](#author)
@@ -189,12 +188,6 @@ CREATE TABLE team (
 
 - **About:** Shows project or author information.
 - **Team:** Shows team members from the `team` table.
-
----
-
-## Screenshots
-
-*(Add screenshots of the login screen, dashboard, student management, etc. here)*
 
 ---
 
