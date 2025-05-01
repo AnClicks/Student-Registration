@@ -5,7 +5,7 @@
 
 /**
  *
- * @author ADITYA RAJ
+ * @author ANKIT RAJ
  */
 public class about extends javax.swing.JFrame {
 

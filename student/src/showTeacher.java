@@ -11,7 +11,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author ADITYA RAJ
+ * @author ANKIT RAJ
  */
 public class showTeacher extends javax.swing.JFrame {
 

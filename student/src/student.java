@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ADITYA RAJ
+ * @author ANKIT RAJ
  */
 public class student extends javax.swing.JFrame {
 

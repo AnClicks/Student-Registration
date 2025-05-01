@@ -14,7 +14,7 @@ import java.sql.*;
 
 /**
  *
- * @author ADITYA RAJ
+ * @author ANKIT RAJ
  */
 public class login extends javax.swing.JFrame {
    

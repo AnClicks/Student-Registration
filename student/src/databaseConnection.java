@@ -5,7 +5,7 @@
 
 /**
  *
- * @author ADITYA RAJ
+ * @author ANKIT RAJ
  */
 import java.sql.*;
 import javax.swing.JOptionPane;
